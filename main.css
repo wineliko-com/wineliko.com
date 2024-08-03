@@ -1,0 +1,33 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+body {
+    background-color: #11161B
+}
+body {
+    color: #AAD6FF
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+body {
+    margin: 0px;
+}
+.navbar {
+    background-color: #29434d;
+    overflow: hidden;
+}
+.navbar a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 15px;
+    text-decoration: none;
+    font-size: 16px;
+  }
+.navbar a:hover {
+     background-color: #388cc4;
+     color: white;
+}
+.navbar a:active {
+    background-color: #9cebff;
+    color: black;
+}
