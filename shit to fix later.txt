@@ -1,0 +1,13 @@
+            <div class="bikinibottom">
+                <p class="name">wineliko's website</p>
+                <p class="rightcopy">2024</p>
+            </div>
+.bikinibottom {
+    padding: 0px;
+    width: 100%;
+    height: 100%;
+    background-color: #29434d;
+    color: white;
+    text-align: center;
+    position: fixed;
+}
